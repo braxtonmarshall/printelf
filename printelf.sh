@@ -1,11 +1,11 @@
 #! /bin/bash
 
 #************************************************#
-#					printelf.sh					 #
-#			written by Braxton Marshall			 #
-#					Aug 01, 2020				 #
-#												 #
-#		Display contents of ELF formatted files	 #
+#		printelf.sh			 #
+#	written by Braxton Marshall		 #
+#		Aug 01, 2020			 #
+#						 #
+#	Display contents of ELF formatted files	 #
 #************************************************#
 
 source plt.sh
